@@ -35,9 +35,7 @@
 
 ###
 
-<p align="left">I'm mi8bi from Japan 🇯🇵  <br><br>- 🔭 I’m working as a full-stack developer, specializing in Python and Java.  <br>- 📚 I'm currently learning frontend design to improve user experiences.  <br>- ⚡ In my free time, I enjoy relaxing in the sauna and exploring new ways to unwind.  
-<br>- 🌍 I'm actively building projects on <a href="https://www.frontendmentor.io/profile/mi8bi">Frontend Mentor</a> and <a href="https://devchallenges.io/portfolio/mi8bi">DevChallenges</a>.
-</p>
+<p align="left">I'm mi8bi from Japan 🇯🇵  <br><br>- 🔭 I’m working as a full-stack developer, specializing in Python and Java.  <br>- 📚 I'm currently learning frontend design to improve user experiences.  <br>- ⚡ In my free time, I enjoy relaxing in the sauna and exploring new ways to unwind.</p>
 
 ###
 
@@ -74,9 +72,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mi8bi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mi8bi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mi8bi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/mi8bi/mi8bi/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/mi8bi/mi8bi/output/snake.svg" alt="Snake animation" />
+
+###
