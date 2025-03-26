@@ -1,5 +1,3 @@
-###
-
 # 💫 About Me:
 🔭 I’m working as a full-stack developer, specializing in Python and Java.<br>
 📚 I'm currently learning frontend design to improve user experiences.<br>
